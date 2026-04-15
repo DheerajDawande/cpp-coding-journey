@@ -1,7 +1,7 @@
-# C++ Coding Journey 🚀
+# JAVA Coding Journey 🚀
 
 ## Goal:
-Become strong in C++ + DSA
+Become strong in JAVA + DSA
 
 ---
 
