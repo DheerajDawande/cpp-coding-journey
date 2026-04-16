@@ -19,20 +19,7 @@ If you’re also on a similar journey, let’s connect and grow together.
 
 hashtag#Java hashtag#DSA hashtag#SelfImprovement hashtag#Consistency
 
-## Daily Progress
 
-Day 1 ✅
-Day 2 
-Day 3 
-
----
-
-## Streak System 🔥
-
-Current Streak: 1  
-Best Streak: 1  
-
----
 
 ## Rules:
 - Solve at least 1 problem daily
