@@ -1,0 +1,17 @@
+Day 6 of my Java learning journey.
+
+Today I learned about operators in Java.
+
+Covered different types like:
+• Arithmetic operators
+• Relational operators
+• Logical operators
+• Assignment operators
+
+At first, it felt basic, but while practicing I realized how important operators are in building logic and writing conditions.
+
+Even small mistakes in operators can completely change the output, so I’m trying to be more careful while using them.
+
+Still practicing to get comfortable.
+
+#Java #Programming #Consistency #Day6
